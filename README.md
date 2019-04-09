@@ -22,9 +22,9 @@ The inference accuracy on the Cifar10, MNIST are as follows:
 
 | Network (arraySize) | MNIST | CIFAR-10 |
 | 		:---:  		  | :---: |  :---:   |
-| Baseline (-)		  | 98.6 | 88.6 |
-| Split  (512)        | 98.7 | 88.3 |
-| Split  (256)        | 98.8 | 88.3 |
-| Split  (128)        | 98.6 | 87.5 |
+| Baseline (-)		  | 98.8 | 88.6 |
+| Split  (512)        | 98.8 | 88.4 |
+| Split  (256)        | 98.7 | 88.0 |
+| Split  (128)        | 98.7 | 87.5 |
 
 Note that the trained model used default options except 'network', 'arraySize', and 'nGPU'.
